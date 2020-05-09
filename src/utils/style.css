@@ -1,0 +1,153 @@
+ .container{
+     margin-bottom: 5%;
+ }
+ #title{
+    color: black;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    /* background-color: #d4d5d5; */
+}
+.nav{
+     background-color: #d4d5d5; 
+}
+
+#me{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.baj{
+    background-color: #4AAAA5;
+    /* color: black; */
+}
+/*
+#4AAAA5
+#d4d5d5
+79a1d7
+.outer{
+    height: auto;
+    background-color: lightgray; 
+    border: solid white;
+}
+.inside{
+     / border: solid lightgray; 
+     height: auto;
+}
+#search{
+    font-style: unset;
+}
+#now{
+    display: block;
+}
+.card{
+    width: 30%;
+    text-align: center;
+}
+.listCard{
+    width: 100%; 18rem;
+    margin-top: 20px;
+}*/
+.tech{
+    width: 50% ;
+    background-color: #d4d5d5;
+    /* color: #D2D0E5; */
+} 
+.rep{
+    background-color: #79a1d7;
+}
+
+.copyright{
+    width: 100%;
+    height: 10%;
+    /* background-color: #666666; */
+    background-color: #d4d5d5;
+    text-align: center;
+    clear: both;
+    padding-top: 0px;
+    bottom: 0px;
+}
+
+.jumbotron{
+    text-align: center;
+    min-height: 100vh;
+    background-image: url('./images/bckg.png');
+    color: white;
+    margin-bottom: 0px;
+    padding-top: 10%;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pnav{
+    font-size: x-large;
+    text-align: center;
+    height: 50px;
+    background-color: #1B242F;
+    color: white;
+    padding-top: 5px;
+    border-bottom: 1.5px solid #0EC2CA;
+}
+.nameCol{
+    color: #e4496e;
+}
+
+.pCopyright{
+    width: 100%;
+    height: 68px;
+   color: white;
+    /* background-image: url('bckg.png'); */
+    background-color: #1B242F;
+    text-align: center;
+    clear: both;
+    padding-top: 15px;
+    bottom: 0px;
+    margin-top: 0px;
+    border-bottom: 1.5px solid #0EC2CA;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333333; */
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+      /* font-size: larger; */
+      text-decoration: none;
+    /* background-color: #111111; */
+    color: #e4496e;
+  }
+
+  .call{
+    align-self: center;
+    height: 20%;
+    width: 20%;
+    border: 1.5px solid white;
+    margin-left: 40%;
+    padding-top: 1%;
+    margin-top: 5%;
+    color: white;
+  }
+  a .call:hover{
+      background-color: #0EC2CA;
+      border: none;
+      text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: none; 
+  }

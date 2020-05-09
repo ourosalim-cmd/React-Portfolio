@@ -1,0 +1,16 @@
+.header{
+  height: 120px;
+  text-align: center;
+  background:#4d4f53;
+  /* border-bottom:2px solid gray; */
+  margin-bottom: 0;
+  padding:20px 0;
+  color: #ffffff;
+}
+
+.profile-button {
+
+  border-radius: 50%;
+  margin-right: 2px;
+  
+}

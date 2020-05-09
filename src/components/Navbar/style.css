@@ -1,0 +1,23 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.pnav{
+  font-size: x-large;
+  text-align: center;
+  height: 50px;
+  background-color: #1B242F;
+  color: white;
+  padding-top: 5px;
+  border-bottom: 1.5px solid #0EC2CA;
+}
+.nameCol{
+  color: #e4496e;
+}
+
+.profile-button {
+
+  border-radius: 50%;
+  margin-right: 2px;
+  
+}
