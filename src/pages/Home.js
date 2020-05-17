@@ -8,7 +8,7 @@ function Home() {
             <h1>
                 Hello, I'm <span className="nameCol"> Aboudou Ouro-Salim. </span>
                 <br/>
-                full-stack web developer.
+                A full-stack web developer.
             </h1>
             <Link to="/portfolio">
                 <div className="call align-self-center">
